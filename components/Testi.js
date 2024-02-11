@@ -23,9 +23,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">Choosing FPA for my exam preparation was one of the best decisions I made. Their expert tutors and well-structured resources gave me the edge I needed to excel. I highly recommend FPA to anyone serious about acing their exams</p>
+                        <p className="text-lg text-black">Thanks to FPAs CLAT program, I got into my dream law school! Their personalized approach and effective mock tests boosted my confidence and prepared me thoroughly.</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Roni Kumar</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Shilpa Kumari</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>
@@ -43,9 +43,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">FPA exam prep exceeded my expectations. The instructors were knowledgeable, approachable, and genuinely invested in my progress. Thanks to their guidance, I not only passed the exam but also gained a deeper understanding of the subject matter</p>
+                        <p className="text-lg text-black">FPAs CLAT prep was spot-on! Their tailored approach and challenging mock tests sharpened my skills. Thanks to them, I am now pursuing my passion for law.</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Suhani</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Aryan</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>
@@ -63,9 +63,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">FPA exam prep program transformed my approach to studying. The structured curriculum and personalized feedback helped me identify my weaknesses and turn them into strengths. Thanks to FPA, I approached the exam with confidence and came out successful</p>
+                        <p className="text-lg text-black">FPAs CLAT program was a lifesaver! Their structured plan and insightful feedback guided me every step of the way. I owe my CLAT success to FPA</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Sohan</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Neha Singh</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>

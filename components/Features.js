@@ -11,8 +11,7 @@ const Features = () => {
         <div className="max-w-xl mx-auto text-center">
             <p className="text-sm font-semibold tracking-widest text-blue-600 uppercase">Exam Prep With FPA</p>
 
-            <h2 className="mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">COMMON UNIVERSITY
-ENTRANCE TEST (CUET)</h2>
+            <h2 className="mt-6 text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl">Common Law Admission Test 2024</h2>
         </div>
 
         <div className="grid items-center grid-cols-1 mt-12 gap-y-10 lg:grid-cols-5 sm:mt-20 gap-x-4">
@@ -23,11 +22,8 @@ ENTRANCE TEST (CUET)</h2>
 </svg>
 
                     <div className="ml-5">
-                        <h3 className="text-xl font-semibold text-black">What Is CUET?</h3>
-                        <p className="mt-3 text-base text-gray-600">From the academic session 2022-23, students have been
-provided a single window opportunity to seek admission in
-any of the Central Universities across the country through a
-Common University Entrance Test (CUET)</p>
+                        <h3 className="text-xl font-semibold text-black">What Is CLAT?</h3>
+                        <p className="mt-3 text-base text-gray-600">CLAT is the Common Law Admission Test, a national-level exam in India for admission to undergraduate (LLB) and postgraduate (LLM) law programs. It assesses candidates aptitude in English, General Knowledge, Legal Aptitude, Logical Reasoning, and Mathematics, and is crucial for aspiring law students.</p>
                     </div>
                 </div>
 
@@ -39,14 +35,7 @@ Common University Entrance Test (CUET)</p>
                         <h3 className="text-xl font-semibold text-black">Popular Universities
 under CUET
 </h3>
-                        <p className="mt-3 text-base text-gray-600">UNIVERSITY OF DELHI,
-DELHI TECHNOLOGICAL UNIVERSITY,
-DR. B.R. AMBEDKAR UNIVERSITY DELHI,
-INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN,
-DELHI SKILL, ENTREPRENEURSHIP UNIVERSITY,
-JAMIA MILLIA ISLAMIA,
-JAWAHARLAL NEHRU UNIVERSITY,
-BANARAS HINDU UNIVERSITY,</p>
+                        <p className="mt-3 text-base text-gray-600">Popular universities under CLAT include NLSIU Bengaluru, NALSAR Hyderabad, NLU Delhi, WBNUJS Kolkata, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Punjab, and NLUO Cuttack.</p>
                     </div>
                 </div>
 
@@ -55,17 +44,14 @@ BANARAS HINDU UNIVERSITY,</p>
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
 </svg>
                     <div className="ml-5">
-                        <h3 className="text-xl font-semibold text-black">CUET Exam Structure?</h3>
-                        <p className="mt-3 text-base text-gray-600">No age limit,
-Passed class 12th/ equivalent examination or appearing,
-Must fulfill programme wise eligibility conditions of the university,
-Required t o fulfill the age criteria (if any) as per the University.</p>
+                        <h3 className="text-xl font-semibold text-black">CLAT Exam Structure?</h3>
+                        <p className="mt-3 text-base text-gray-600">The eligibility criteria for CLAT typically require candidates to have completed 10+2 or an equivalent examination with a minimum percentage score (usually around 45-50%) for undergraduate programs. For postgraduate programs, candidates must hold a LL.B. degree or an equivalent qualification with a specified minimum percentage (usually around 50%). Additionally, there may be specific age requirements and nationality criteria that candidates need to fulfill to be eligible to appear for the CLAT exam.</p>
                     </div>
                 </div>
             </div>
 
             <div className="lg:col-span-3">
-                <Image className="w-full rounded-lg shadow-xl" src="/bg7.png" alt="" width={1080} height={1080}/>
+                <Image className="w-full rounded-lg shadow-xl" src="/cl4.png" alt="" width={1080} height={1080}/>
             </div>
         </div>
     </div>

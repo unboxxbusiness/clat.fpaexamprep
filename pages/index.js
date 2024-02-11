@@ -1,5 +1,5 @@
 import About from "@/components/About";
-import Brand from "@/components/Brands";
+
 import Contact from "@/components/Contact";
 import Cta from "@/components/Cta";
 import Faq from "@/components/Faq";
@@ -12,7 +12,7 @@ export default function Home() {
   return (
   <>
   <Hero />
-  <Brand />
+ 
   <About />
   <Features />
   

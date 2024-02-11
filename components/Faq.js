@@ -14,8 +14,7 @@ const Accordion = () => {
                 Any Questions? Look Here
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                There are many variations of passages of Lorem Ipsum available
-                but the majority have suffered alteration in some form.
+                Here are some frequently asked questions (FAQs) related to CLAT (Common Law Admission Test) preparation with FPA
               </p>
             </div>
           </div>
@@ -24,30 +23,30 @@ const Accordion = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="Who conducts CUET 2024?"
-              text="CUET 2024 is conducted by the National Testing Agency (NTA), which is responsible for organizing various entrance examinations in India."
+              header="What is CLAT, and why is it important?"
+              text="CLAT is a national-level entrance exam for admission to undergraduate and postgraduate law programs in India. It's crucial because it determines admission to prestigious law schools across the country."
             />
             <AccordionItem
-              header="What programs does CUET 2024 cover?"
-              text="CUET 2024 covers undergraduate programs in central universities, including courses in arts, sciences, commerce, engineering, management, and other disciplines."
+              header="How does FPA help with CLAT preparation?"
+              text="FPA provides comprehensive CLAT preparation through expert guidance, tailored study plans, extensive practice materials, and personalized support to ensure students are well-prepared for the exam."
             />
             <AccordionItem
-              header="Is there any age limit for appearing in CUET 2024?"
-              text="There is typically no upper age limit for appearing in CUET 2024. However, candidates must meet the eligibility criteria specified by the respective universities and NTA."
+              header="What sets FPA apart from other CLAT coaching institutes?"
+              text="FPA offers a unique approach combining experienced faculty, updated study materials, regular mock tests, and personalized feedback, resulting in higher success rates and confident CLAT aspirants."
             />
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="How can I apply for CUET 2024?"
-              text="To apply for CUET 2024, visit the CUET portal, register, fill the form, upload documents, pay the fee, and submit before the deadline. For assistance, contact FPA Exam Prep."
+              header="Can FPA accommodate my individual learning style and pace?"
+              text="Yes, FPA offers personalized study plans tailored to individual needs, ensuring flexibility and optimization of study time according to each student's learning style and pace."
             />
             <AccordionItem
-              header="How can I prepare for CUET 2024?"
-              text="To prepare for CUET 2024, FPA provides comprehensive classes and essential resources covering the exam syllabus. Enroll in our CUET preparation program for expert guidance, study materials, practice tests, and personalized support to excel in your exam preparation."
+              header="Can I access FPA's study materials and resources online?"
+              text="Yes, FPA offers online access to study materials, resources, recorded lectures, and practice tests, providing flexibility and convenience for students to study anytime, anywhere."
             />
             <AccordionItem
-              header="When will the results for CUET 2024 be declared?"
-              text="The results for CUET 2024 are usually declared within a few weeks after the examination. Candidates can check their results on the official website of NTA or the respective central university they have applied to."
+              header="How can I enroll in FPA's CLAT preparation program?"
+              text="To enroll in FPA's CLAT preparation program, you can visit our website, contact our admissions team, or visit our nearest center for guidance on enrollment procedures and program details."
             />
           </div>
         </div>

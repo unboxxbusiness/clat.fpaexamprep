@@ -12,7 +12,7 @@ const Cta = () => {
                 <div>
                     <h2 className="text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl lg:leading-tight">Use mobile app for better performance</h2>
                     <p className="mt-4 text-base text-gray-50">
-Utilize our mobile app for enhanced performance and seamless access to resources, ensuring your CUET 2024 preparation is convenient and effective.</p>
+Utilize our mobile app for enhanced performance and seamless access to resources, ensuring your CLAT 2024 preparation is convenient and effective.</p>
 
                     <div className="flex flex-row items-center mt-8 space-x-4 lg:mt-12">
                         <Link href="#" title="" className="flex" role="button">

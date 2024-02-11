@@ -15,7 +15,7 @@ const Contact = () => {
                   GET IN TOUCH WITH US
                 </h2>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-dark-6">
-                Get in touch with us today and embark on your journey towards CUET 2024 success with confidence and support from FPA.
+                Get in touch with us today and embark on your journey towards CLAT 2024 success with confidence and support from FPA.
                 </p>
                 <div className="mb-8 flex w-full max-w-[370px]">
                   <div className="mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-primary/5 text-primary sm:h-[70px] sm:max-w-[70px]">

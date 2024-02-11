@@ -11,11 +11,14 @@ const About = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid items-center grid-cols-1 md:grid-cols-2">
             <div>
-                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">Why CUET 2024?
+                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">WHY LAW?
 </h2>
-                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">A common entrance test eliminates the need to take multiple entrance exams for different programs. The
-exam also reduces the dependency of students on Class XII board exam marks and brings them on a common
-platform for admissions into Central Universities</p>
+                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">There are various reasons for Law to be an apt career choice but the following five supersede
+all else <br /> 1. Respect, 2. Stability 3. Power, 4. Fame, 5. Opportunities
+<br />Legal Education / Law provides the best opportunity to learn and gain satisfying experience both
+academically and otherwise towards variety of skills. It challenges the intellect, inspires ideas,
+and gives you a chance to really make a difference. And that is huge.
+</p>
 
                 <p className="mt-4 text-xl text-gray-600 md:mt-8">
                     <span className="relative inline-block">
