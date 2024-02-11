@@ -51,7 +51,7 @@ under CUET
             </div>
 
             <div className="lg:col-span-3">
-                <Image className="w-full rounded-lg shadow-xl" src="/cl4.png" alt="" width={1080} height={1080}/>
+                <Image className="w-full rounded-lg shadow-xl" src="/Cl4.png" alt="" width={1080} height={1080}/>
             </div>
         </div>
     </div>
