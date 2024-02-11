@@ -33,7 +33,7 @@ const Features = () => {
 </svg>
                     <div className="ml-5">
                         <h3 className="text-xl font-semibold text-black">Popular Universities
-under CUET
+under CLAT
 </h3>
                         <p className="mt-3 text-base text-gray-600">Popular universities under CLAT include NLSIU Bengaluru, NALSAR Hyderabad, NLU Delhi, WBNUJS Kolkata, NLU Jodhpur, HNLU Raipur, GNLU Gandhinagar, RMLNLU Lucknow, RGNUL Punjab, and NLUO Cuttack.</p>
                     </div>
